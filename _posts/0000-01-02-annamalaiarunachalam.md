@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+:) efforts never fail, even in darkness light dawns for those who believe !!!!!
 Use the left arrow to go back!
